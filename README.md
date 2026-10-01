@@ -1,0 +1,1 @@
+# Windows-Spotlight-Image-Extractor
